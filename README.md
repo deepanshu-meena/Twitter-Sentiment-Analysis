@@ -19,8 +19,8 @@ A Machine Learning based Twitter Sentiment Analysis project that classifies twee
 ## Technologies Used
 
 - Python
-- Pandas
 - NumPy
+- Pandas
 - Scikit-learn
 - NLTK
 - Streamlit
